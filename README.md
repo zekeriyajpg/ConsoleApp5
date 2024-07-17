@@ -1,1 +1,1 @@
-# ConsoleApp5
+Pratik İf else Yapılarında Örnek 
